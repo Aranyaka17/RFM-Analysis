@@ -19,9 +19,13 @@ M-Monetary
 ### Steps:
 
 1.Data has been joined to make the suitable dataset.
+
 2.An EDA is performed on it to have an idea of the overall dataset.
+
 3.The recency, frequency and monetary values for the customer are calculated.
+
 4.They binned using quantile.
+
 5.Lastly customers are sorted according to RFM values 
 
 
